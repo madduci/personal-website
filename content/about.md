@@ -11,7 +11,7 @@ Being never done learning, being able to think big and see the _big picture_, im
 
 These Web pages contain thoughts and references about my interests: Project Management, Distributed Systems, Software Architecture, DevOps and Software Development.
 
-I enjoy to share my researches with other who might encounter problems I've already solved of for which I've found a potential solution, avoiding the classic _reinventing the wheel_, in pure engineering way.
+I enjoy to share my researches with others who might encounter problems I've already solved or for which I've found a potential solution, avoiding the classic _reinventing the wheel_, in pure engineering way.
 
 I'm open to feedbacks and discussions on published themes and to critics which can help improving this blog.
 
