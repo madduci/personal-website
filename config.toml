@@ -1,5 +1,5 @@
-baseurl = "https://madduci.netlify.com"
-repourl = "https://github.com/madduci/micheleadduci.net"
+baseurl = "https://madduci.netlify.app"
+repourl = "https://github.com/madduci/personal-website"
 title = "Michele Adduci"
 
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
