@@ -49,7 +49,7 @@ Education
 Soft Skills
 ----------------------------------------
 
-Being never done learning, being able to think big and keep always the big picture in mind, improving myself and staying curious have defined my 10-years-old professional carrer. Working on challenging projects, using cutting-edge technologies and adopting high quality standards for the design and delivery of solutions has enabled me to gain experience and expertise in accomplishing customers' goals with the right quality and in a timely fashion.
+Being never done learning, being able to think big and keep always the big picture in mind, improving myself and staying curious have defined my 10-years-old professional career. Working on challenging projects, using cutting-edge technologies and adopting high quality standards for the design and delivery of solutions has enabled me to gain experience and expertise in accomplishing customers' goals with the right quality and in a timely fashion.
 
 Technical Skills
 ----------------------------------------
