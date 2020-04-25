@@ -40,16 +40,16 @@ Education
 
 2011:   **MSc, Engineering Informatics**; Politecnico di Bari (Bari, Italy)
   
- * Final Mark: 110/110 (GPA: A+)
+ * Final Mark: 110/110
 
 2008:   **BSc, Engineering Informatics**; Politecnico di Bari (Bari, Italy)
   
-  * Final Mark: 95/110 (GPA: B)
+  * Final Mark: 95/110
 
 Soft Skills
 ----------------------------------------
 
-Being never done learning, being able to think big and keep always the big picture in mind, improving myself and staying curious have defined my 10-years professional carrer. Working on challenging projects, using cutting-edge technologies and adopting high quality standards for the design and delivery of solutions has enabled me to gain experience and expertise in accomplishing customers' goals with the right quality and in a timely fashion.
+Being never done learning, being able to think big and keep always the big picture in mind, improving myself and staying curious have defined my 10-years-old professional carrer. Working on challenging projects, using cutting-edge technologies and adopting high quality standards for the design and delivery of solutions has enabled me to gain experience and expertise in accomplishing customers' goals with the right quality and in a timely fashion.
 
 Technical Skills
 ----------------------------------------
