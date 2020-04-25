@@ -7,6 +7,8 @@ My name is Michele Adduci and I'm a Computer Engineer located in Berlin, Germany
 
 Being never done learning, being able to think big and see the _big picture_, improving myself and staying curious have marked my 9 years in tech. Working on challenging projects, using cutting-edge technologies and adopting high quality standards for the design and delivery of solutions has enabled me to gain experience and expertise in accomplishing customers' goals with the right quality and in a timely fashion.
 
+[**Here**]({{< ref cv.md >}} ) you can find my Curriculum Vitae.
+
 ### Contents of this blog
 
 These Web pages contain thoughts and references about my interests: Project Management, Distributed Systems, Software Architecture, DevOps and Software Development.
