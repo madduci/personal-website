@@ -51,18 +51,17 @@
     {{ template "_internal/schema.html" . }}
     {{ $cssOpts := (dict "targetPath" "css/coder.css" ) }}
     {{ $styles := resources.Get "scss/coder.scss" | resources.ExecuteAsTemplate "style.coder.css" . | resources.ToCSS $cssOpts | resources.Minify | resources.Fingerprint  }}
-    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" />
-
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" media="none" onload="if(media!='all')media='all'"><noscript><link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen"></noscript>
     {{ if .Site.Params.rtl }}
         {{ $cssOpts := (dict "targetPath" "css/coder-rtl.css" ) }}
         {{ $styles := resources.Get "scss/coder-rtl.scss" | resources.ExecuteAsTemplate "style.coder-rtl.css" . | resources.ToCSS $cssOpts | resources.Minify | resources.Fingerprint }}
-        <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" />
+        <link rel="stylesheet" href="{{ $styles.Permalink }}" media="none" onload="if(media!='all')media='all'"><noscript><link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen"></noscript>
     {{ end }}
 
     {{ if  or (eq .Site.Params.colorscheme "auto") (eq .Site.Params.colorscheme "dark") }}
         {{ $cssOpts := (dict "targetPath" "css/coder-dark.css" ) }}
         {{ $styles := resources.Get "scss/coder-dark.scss" | resources.ExecuteAsTemplate "style.coder-dark.css" . | resources.ToCSS $cssOpts | resources.Minify | resources.Fingerprint }}
-        <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" />
+        <link rel="stylesheet" href="{{ $styles.Permalink }}" media="none" onload="if(media!='all')media='all'"><noscript><link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen"></noscript>
     {{ end }}
     
     {{ range .AlternativeOutputFormats -}}
