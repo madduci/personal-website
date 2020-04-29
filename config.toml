@@ -64,16 +64,6 @@ pygmentscodefencesguesssyntax = true
   tag = "tags"
 
 [[params.social]]
-    name = "Github"
-    icon = "icon-github-circled-alt2"
-    weight = 1
-    url = "https://github.com/madduci/"
-[[params.social]]
-    name = "Twitter"
-    icon = "icon icon-twitter"
-    weight = 2
-    url = "https://twitter.com/m_adduci/"
-[[params.social]]
     name = "LinkedIn"
     icon = "icon icon-linkedin"
     weight = 3
@@ -83,6 +73,11 @@ pygmentscodefencesguesssyntax = true
     icon = "icon icon-stackoverflow"
     weight = 4
     url = "https://stackoverflow.com/story/adduci"
+[[params.social]]
+    name = "Github"
+    icon = "icon-github-circled-alt2"
+    weight = 1
+    url = "https://github.com/madduci/"
 
 [sitemap]
   changefreq = "monthly"
