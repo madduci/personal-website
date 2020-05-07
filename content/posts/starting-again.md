@@ -10,7 +10,7 @@ Here we go again. After 10 years, I've canceled the subscription for my domain+h
 
 There are many ways to keep your presence online, some of them are even free. Sure, you don't have your vanity URL, but at the end of the day, the most important thing is that **you own your data**.
 
-This site is based on a Git repository on my hard drive, replicated in GitHub and GitLab. I'm leveraging Netlify for the hosting site, since it does have an out-of-the-box support to [Hugo]((https://gohugo.io), the static website generator I'm using for these pages you're reading.
+This site is based on a Git repository on my hard drive, replicated in GitHub and GitLab. I'm leveraging Netlify for the hosting site, since it does have an out-of-the-box support to [Hugo](https://gohugo.io), the static website generator I'm using for these pages you're reading.
 
 I've ditched my old quick and dirty HTML5 pages and my old Jekyll/Github Pages blog, since it was slower, and I was able to got my old posts (not many, since I've used platforms such as WordPress or Tumblr, but my spaces are long gone due inactivity and didn't take backup).
 
