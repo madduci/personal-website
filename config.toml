@@ -27,11 +27,9 @@ pygmentscodefencesguesssyntax = true
 [Permalinks]
  posts = "posts/:year/:filename/"
 
-[author]
-    name = "Michele Adduci"
-
 [params]
     author = "madduci"
+    author_extended = "Michele Adduci"
     description = "Michele Adduci - Personal Website"
     keywords = "blog,engineer,personal"
     info = "Computer Engineer"
@@ -63,21 +61,22 @@ pygmentscodefencesguesssyntax = true
   series = "series"
   tag = "tags"
 
-[[params.social]]
-    name = "LinkedIn"
-    icon = "icon icon-linkedin"
-    weight = 3
-    url = "https://www.linkedin.com/in/adduci/"
-[[params.social]]
-    name = "StackOverflow"
-    icon = "icon icon-stackoverflow"
-    weight = 4
-    url = "https://stackoverflow.com/story/adduci"
+
 [[params.social]]
     name = "Github"
     icon = "icon-github-circled-alt2"
     weight = 1
     url = "https://github.com/madduci/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "icon icon-linkedin"
+    weight = 2
+    url = "https://www.linkedin.com/in/adduci/"
+[[params.social]]
+    name = "StackOverflow"
+    icon = "icon icon-stackoverflow"
+    weight = 3
+    url = "https://stackoverflow.com/story/adduci"
 
 [sitemap]
   changefreq = "monthly"
