@@ -49,6 +49,20 @@ Previously:
 
 ------
 
+Tech Skills
+---------
+
+C++ (up to 17) Stack, including CMake/CPack, Conan, Google Test, Catch, Doctest, Clang-Format, CppCheck, gdb, Valgrind, WIX, DEB/RPM and DMG packaging.
+
+Java (up to 14) Stack, including Maven, SonarQube, Checkstyle, JUnit, JakartaEE, JPA, JaxWS, Jaxb, Vaadin, JBoss/Wildfly, Thorntail, Glassfish, Tomcat.
+
+PHP (up to 7.4) Stack, including Composer, PHPUnit, PHPInsights, PHPStan, CakePHP, Nginx, Apache httpd, Wordpress, OpenCart.
+
+HashiCorp Stack, including Packer, Vagrant and Terraform for Intrastructure as Code.
+
+DevOps tools: Bash scripting, Docker and Docker-Compose, Harbor, LDAP/Active Directory, Jenkins, GitLab, SonaType Nexus and JFrog Artifactory.
+
+
 Education
 ---------
 
