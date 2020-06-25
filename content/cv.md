@@ -62,7 +62,6 @@ HashiCorp Stack, including Packer, Vagrant and Terraform for Intrastructure as C
 
 DevOps tools: Bash scripting, Docker and Docker-Compose, Harbor, LDAP/Active Directory, Jenkins, GitLab, SonaType Nexus and JFrog Artifactory.
 
-
 Education
 ---------
 
