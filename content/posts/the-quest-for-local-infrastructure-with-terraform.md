@@ -1,6 +1,6 @@
 +++
 title = "The quest for local Infrastructure as Code with Terraform"
-date = 2020-10-30
+date = 2021-12-31
 ref = "local-ifrastructure-as-code-terraform"
 tags = ["terraform", "tools", "devops", "infrastructure"]
 categories = ["tools", "terraform"]
