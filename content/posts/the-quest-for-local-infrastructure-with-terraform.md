@@ -1,9 +1,10 @@
 +++
 title = "The quest for local Infrastructure as Code with Terraform"
-date = 2021-12-31
+date = 2022-12-31
 ref = "local-ifrastructure-as-code-terraform"
 tags = ["terraform", "tools", "devops", "infrastructure"]
 categories = ["tools", "terraform"]
+draft = true
 +++
 
 Every person that works in a DevOps role or deals with Cloud Infrastructure (you know, AWS, GCP, Azure and so on) has read at least once about the concept of Infrastructure as Code and as probably used a magical tool that can help them achieving it: [**terraform**](https://www.terraform.io/).
