@@ -72,11 +72,6 @@ pygmentscodefencesguesssyntax = true
     icon = "icon icon-linkedin"
     weight = 2
     url = "https://www.linkedin.com/in/adduci/"
-[[params.social]]
-    name = "StackOverflow"
-    icon = "icon icon-stackoverflow"
-    weight = 3
-    url = "https://stackoverflow.com/story/adduci"
 
 [sitemap]
   changefreq = "monthly"
