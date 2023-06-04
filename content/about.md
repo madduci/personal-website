@@ -5,7 +5,16 @@ slug = "about"
 
 My name is Michele Adduci and I'm a Computer Engineer located in Berlin, Germany.
 
-Being never done learning, being able to think big and see the _big picture_, improving myself and staying curious have marked my 10 years in tech. Working on challenging projects, using cutting-edge technologies and adopting high quality standards for the design and delivery of solutions has enabled me to gain experience and expertise in accomplishing customers' goals with the right quality and in a timely fashion.
+With more than a decade of experience in the tech industry, I am driven by a never-ending thirst for knowledge, an ability to think big and grasp the bigger picture, and a commitment to constant self-improvement. My expertise lies in tackling challenging projects, leveraging cutting-edge technologies, and delivering top-notch solutions that align with customers' goals.
+
+Main Skills include:
+
+- Cloud Technologies: Google Cloud Platform, Kubernetes, Terraform, Helm
+- Software Architecture: Microservices, RESTful APIs, Enterprise Patterns
+- Programming Languages: Java, C++, PHP, Bash
+- DevOps: CI/CD, Docker
+- Agile Methodologies: Scrum, Kanban, SAFe
+- Servant Leadership: Coaching, Mentoring, Team Empowerment
 
 ### Contents of this blog
 
