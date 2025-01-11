@@ -3,9 +3,8 @@
   command = "hugo --gc --minify"
 
 [[headers]]
-  # Define which paths this specific [[headers]] block will cover.
-  for = "/*"
-    [headers.values]
+  from = "/assets/*"
+  [headers.values]
     Access-Control-Allow-Origin = "*"
 
 [context.production.environment]
