@@ -3,7 +3,7 @@
   command = "hugo --gc --minify"
 
 [[headers]]
-  from = "/assets/*"
+  for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
 
