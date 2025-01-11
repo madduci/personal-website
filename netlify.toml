@@ -2,8 +2,14 @@
   publish = "public"
   command = "hugo --gc --minify"
 
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
+
 [context.production.environment]
-  HUGO_VERSION = "0.136.5"
+  HUGO_VERSION = "0.140.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
 
@@ -11,7 +17,7 @@
   command = "hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
-  HUGO_VERSION = "0.136.5"
+  HUGO_VERSION = "0.140.0"
   HUGO_ENV = "production"
 
 [context.deploy-preview]
@@ -24,7 +30,7 @@
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.136.5"
+  HUGO_VERSION = "0.140.0"
 
 [context.next.environment]
   HUGO_ENABLEGITINFO = "true"
