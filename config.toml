@@ -25,7 +25,7 @@ pygmentscodefencesguesssyntax = true
       unsafe = true
 
 [Permalinks]
- posts = "posts/:year/:filename/"
+ posts = "posts/:year/:contentbasename/"
 
 [params]
     author = "madduci"
