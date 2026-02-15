@@ -5,14 +5,14 @@ slug = "about"
 
 My name is Michele Adduci and I'm a Computer Engineer located in Berlin, Germany.
 
-With more than a decade of experience in the tech industry, I am driven by a never-ending thirst for knowledge, an ability to think big and grasp the bigger picture, and a commitment to constant self-improvement. My expertise lies in tackling challenging projects, leveraging cutting-edge technologies, and delivering top-notch solutions that align with customers' goals. I've also accomplished the iSAQB certifications in 2023 and the ITILv4 one in 2024.
+With more than a decade of experience in the tech industry, I am driven by a never-ending thirst for knowledge, an ability to think big and grasp the bigger picture, and a commitment to constant self-improvement. My expertise lies in tackling challenging projects, leveraging cutting-edge technologies, and delivering top-notch solutions that align with customers' goals. I've also accomplished the iSAQB certification in 2023, the ITILv4 one in 2024 and the SAFe 6 in 2025.
 
 Main Skills include:
 
-- Cloud Technologies: Google Cloud Platform, Kubernetes, Terraform, Helm
+- Cloud Technologies: Google Cloud Platform, Kubernetes, Terraform/OpenTofu, Helm
 - Software Architecture: Microservices, RESTful APIs, Enterprise Patterns
 - Programming Languages: Java, C++, PHP, Bash
-- DevOps: CI/CD, Docker, GitOps
+- DevOps: CI/CD (Jenkins, GitHub Actions, GitLab Runners), Docker, GitOps Patterns
 - Agile Methodologies: Scrum, Kanban, SAFe
 - Servant Leadership: Coaching, Mentoring, Team Empowerment
 
