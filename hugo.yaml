@@ -1,0 +1,91 @@
+baseURL: "https://michele.adduci.org"
+repoURL: "https://github.com/madduci/personal-website"
+title: "Michele Adduci"
+timeZone: "Europe/Berlin"
+defaultContentLanguage: en
+templateMetrics: true
+theme: "hugo-coder"
+
+pagination:
+  paginate: 9  # Posts per page
+
+copyright: "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+canonifyURLs: true
+enableEmoji: false
+enableRobotsTXT: true
+googleAnalytics: ""
+
+preserveTaxonomyNames: true
+
+pygmentsStyle: "b2"
+pygmentsCodeFences: true
+pygmentsCodeFencesGuessSyntax: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+permalinks:
+  posts: "posts/:year/:contentbasename/"
+
+params:
+  description: "Michele Adduci - Personal Website"
+  keywords: "blog,engineer,personal"
+  info: ["Computer Engineer", "Software Architect"]
+  avatarurl: "images/avatar.jpg"
+  dateformat: "January 2, 2006"
+  hideCredits: false
+  hideCopyright: false
+  since: 2009
+  rtl: false
+  colorScheme: "auto"
+  hideColorSchemeToggle: false
+  maxSeeAlsoItems: 5
+  custom_css: []
+  custom_js: []
+  license: '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="me noopener">CC BY-NC 4.0</a>'
+  
+  social:
+    - name: "Github"
+      icon: "fa-brands fa-github fa-2x"
+      weight: 1
+      url: "https://github.com/madduci/"
+    - name: "LinkedIn"
+      icon: "fa-brands fa-linkedin fa-2x"
+      weight: 2
+      url: "https://www.linkedin.com/in/adduci/"
+
+taxonomies:
+  category: "categories"
+  series: "series"
+  tag: "tags"
+
+sitemap:
+  changeFreq: "monthly"
+  priority: 0.5
+  filename: "sitemap.xml"
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    languageCode: en-US
+    languageDirection: ltr
+    disabled: false
+    timeZone: Europe/Berlin
+    menus:
+      main:
+        - name: "About"
+          weight: 1
+          url: "about/"
+        - name: "Blog"
+          weight: 2
+          url: "posts/"
+        - name: "Contact"
+          weight: 3
+          url: "contact/"
+        - name: "Policy"
+          weight: 4
+          url: "policy/"
